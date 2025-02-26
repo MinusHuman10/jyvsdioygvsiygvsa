@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+fuzzywuzzy[speedup]
+Pillow
+scikit-learn
+seaborn
